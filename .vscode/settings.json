@@ -1,0 +1,11 @@
+{
+  "java.project.sourcePaths": [
+    "src"
+  ],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar"
+  ],
+  "java.debug.settings.vmArgs": "--enable-native-access=ALL-UNNAMED",
+  "java.jdt.ls.vmargs": "--enable-native-access=ALL-UNNAMED"
+}
